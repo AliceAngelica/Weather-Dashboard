@@ -21,3 +21,5 @@ Weather-Dashboard is licensed under the MIT license.
 To use the Weather-Dashboard please open the deployed link in your browser. To find a forecast the user must enter a location into the search bar, then click the button to search. After pressing the button a 5-day forecast will appear including the temperature in celcius, the wind speed and humidity. When locations are searched, the location will be saved onto the left side of the page so that the next time the user visits the application they can easily access previously searched locations.
 
 ## Deployed webpage link
+
+https://aliceangelica.github.io/Weather-Dashboard/
